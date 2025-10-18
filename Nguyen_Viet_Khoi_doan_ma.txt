@@ -1,3 +1,4 @@
+HEAD
 # Bài 1:
 git init
 git add .
@@ -57,3 +58,4 @@ git push origin --delete branch_4
 git checkout branch_1
 git pull origin main
 git push origin branch_1
+6663f4b (Bài 10: Thêm file Nguyen_Viet_Khoi_doan_ma.txt chứa đoạn mã từ bài 1-9)
